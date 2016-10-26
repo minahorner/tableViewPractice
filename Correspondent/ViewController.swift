@@ -12,7 +12,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
     var articleTitles = ["Articel Title 1", "Article Title 2"]
     var articles = ["article 1", "something something somthing ajadslf; "]
-    
+    //yes yes this is changed
     
     @IBOutlet weak var articleTableView: UITableView!
     override func viewDidLoad() {
